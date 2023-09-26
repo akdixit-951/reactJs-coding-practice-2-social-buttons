@@ -9,7 +9,7 @@ body {
 .social-buttons-container {
   display: flex;
   justify-content: center;
-  background-image: url('https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png');
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
   background-size: cover;
   min-height: 100vh;
 }
@@ -37,7 +37,7 @@ body {
 
 .heading {
   color: #ffffff;
-  font-family: 'Bree Serif';
+  font-family: "Bree Serif";
   font-size: 32px;
 }
 
@@ -60,7 +60,7 @@ body {
 }
 
 .button {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-size: 14px;
   font-weight: 500;
   border: none;
